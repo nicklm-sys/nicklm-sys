@@ -1,4 +1,4 @@
-# 🏄‍♂️ Nick Aldwin D. Lemoncito
+# Nick Aldwin D. Lemoncito
 
 
 I'm an full-stack developer from Philipines 
