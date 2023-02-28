@@ -1,7 +1,7 @@
 # Nick Aldwin D. Lemoncito
 
 
-I'm an full-stack developer from Philipines 
+I'm an full-stack developer from Philippines 
 
 
 ### 🧰 Languages and Tools 
