@@ -20,8 +20,8 @@
 
 
 **🧰 Tools I used:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<i class="devicon-vim-plain colored"></i>
 
 **💌 How you can reach me:**
 
