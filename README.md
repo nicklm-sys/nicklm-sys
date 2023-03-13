@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF44D2&lines=Hi,%2C+I'm+Nick!++%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF44D2&lines=Hi%2C+I'm+Nick!++%F0%9F%91%8B)](https://git.io/typing-svg)
 * I'm a Software Engineer 
 * I'm a Filippino
 * I'm a self-taught web dev 
