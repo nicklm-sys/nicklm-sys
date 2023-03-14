@@ -6,7 +6,7 @@
 
 🌎 Links
 
-nickaldwin.netlify.app
+https://nickaldwin.netlify.app
 
 **🛠 Tech:**
 
