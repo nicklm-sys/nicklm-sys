@@ -4,7 +4,9 @@
 * I'm a self-taught web dev 
 
 
-<!--**🌎 Links:**-->
+🌎 Links
+
+nickaldwin.netlify.app/
 
 **🛠 Tech:**
 
