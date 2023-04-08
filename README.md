@@ -1,4 +1,4 @@
-hiiiii i’m nick aldwin ☁️
+hi i’m nick aldwin 
 
 "I'm form phillipines  to the world of coding, one person's determination to succeed is the inspiring tale behind this captivating story. Self-taught and motivated, follow the journey of a budding programmer as they navigate the complexities of code and the world of technology. With passion and grit, our protagonist overcomes obstacles and hurdles, learning valuable lessons along the way. From humble beginnings to a future full of promise, this is a story of one person's journey to unlock their full potential through the power of coding."
 
