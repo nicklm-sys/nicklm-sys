@@ -5,7 +5,7 @@ hi i’m nick aldwin
 
 **🌎 Links:**
 
-[My personal site](https://radiant-pavlova-55a1fb.netlify.app/)https://radiant-pavlova-55a1fb.netlify.app
+[My personal site](https://radiant-pavlova-55a1fb.netlify.app/) https://radiant-pavlova-55a1fb.netlify.app
 
 **🛠 Tech:**
 
