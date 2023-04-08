@@ -1,29 +1,43 @@
-<h1 align="center">Hi 👋, I'm Nick 🇵🇭</h1>
-<h3 align="center">A passionate developer from Philippines</h3>
+hiiiii i’m nick aldwin ☁️
 
-- 📫 How to reach me **nicklemoncito98@gmail.com**
+I'm form phillipines  to the world of coding, one person's determination to succeed is the inspiring tale behind this captivating story. Self-taught and motivated, follow the journey of a budding programmer as they navigate the complexities of code and the world of technology. With passion and grit, our protagonist overcomes obstacles and hurdles, learning valuable lessons along the way. From humble beginnings to a future full of promise, this is a story of one person's journey to unlock their full potential through the power of coding."
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nicklemoncito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicklemoncito" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bitlynicklemoncito/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bitlynicklemoncito/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+**🌎 Links:**
+
+[My personal site](https://radiant-pavlova-55a1fb.netlify.app/)
+
+**🛠 Tech:**
+
+![HTML](https://img.shields.io/badge/HTML5-8d90e2?style=for-the-badge&logo=html5&logoColor=f3c6f2)
+![CSS](https://img.shields.io/badge/CSS3-bd98e0?style=for-the-badge&logo=css3&logoColor=dfe2fb)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-8d90e2.svg?style=for-the-badge&logo=tailwind-css&logoColor=f3c6f2)
+
+![JS](https://img.shields.io/badge/JavaScript-bd98e0?style=for-the-badge&logo=javascript&logoColor=dfe2fb)
+![TS](https://img.shields.io/badge/TypeScript-8d90e2?style=for-the-badge&logo=typescript&logoColor=f3c6f2)
+![React](https://img.shields.io/badge/React-bd98e0?style=for-the-badge&logo=react&logoColor=dfe2fb)
+
+**🧰 Tools I love:**
+
+![image](https://img.shields.io/badge/Visual_Studio_Code-8d90e2?style=for-the-badge&logo=visual%20studio%20code&logoColor=f3c6f2)
+![image](https://img.shields.io/badge/Hyper-bd98e0?style=for-the-badge&logo=hyper&logoColor=dfe2fb)
+
+**💌 How you can reach me:**
+
+[![image](https://img.shields.io/badge/Twitter-bd98e0?style=for-the-badge&logo=twitter&logoColor=dfe2fb)](https://twitter.com/nicklemoncito)
+[![image](https://img.shields.io/badge/LinkedIn-8d90e2?style=for-the-badge&logo=linkedin&logoColor=f3c6f2)](https://www.linkedin.com/in/bitlynicklemoncito/)
 
 <!--
-**nickaldwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nickaldwin/nickaldwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning how to use new  prog. language...
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: my hobby is hacking i'm using Proxychains combined with tor service and dns leaktest to test my current ip...
-- i'm currently using ptf framework to get the job done -
+- ⚡ Fun fact: ...
 -->
