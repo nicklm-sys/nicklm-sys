@@ -19,7 +19,7 @@ hi i’m nick aldwin
 
 **🧰 Tools I love:**
 
-![image](https://img.shields.io/badge/Visual_Studio_Code-8d90e2?style=for-the-badge&logo=visual%20studio%20code&logoColor=f3c6f2)
+![image](https://img.shields.io/badge/V_S_Codium-8d90e2?style=for-the-badge&logo=visual%20studio%20code&logoColor=f3c6f2)
 
 **💌 How you can reach me:**
 
