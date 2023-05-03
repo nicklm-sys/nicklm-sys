@@ -11,11 +11,8 @@ hi i’m nick aldwin
 
 ![HTML](https://img.shields.io/badge/HTML5-8d90e2?style=for-the-badge&logo=html5&logoColor=f3c6f2)
 ![CSS](https://img.shields.io/badge/CSS3-bd98e0?style=for-the-badge&logo=css3&logoColor=dfe2fb)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-8d90e2.svg?style=for-the-badge&logo=tailwind-css&logoColor=f3c6f2)
 
 ![JS](https://img.shields.io/badge/JavaScript-bd98e0?style=for-the-badge&logo=javascript&logoColor=dfe2fb)
-![TS](https://img.shields.io/badge/TypeScript-8d90e2?style=for-the-badge&logo=typescript&logoColor=f3c6f2)
-![React](https://img.shields.io/badge/React-bd98e0?style=for-the-badge&logo=react&logoColor=dfe2fb)
 
 **🧰 Tools I love:**
 
