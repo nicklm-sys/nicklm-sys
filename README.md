@@ -5,7 +5,7 @@ I'm form phillipines  to the world of coding, one person's determination to succ
 
 **🌎 Links:**
 
-[My personal site] https://fanciful-bavarois-a24489.netlify.app/
+[My personal site] https://nickaldwin.netlify.app/
 
 **🛠 Tech:**
 
