@@ -16,11 +16,12 @@ I'm form phillipines  to the world of coding, one person's determination to succ
 
 
 # **🧰 Tools I love:**
-- vsCodium [Link text Here](https://github.com/vscodium/vscodium/releases)
+- vsCodium [Link Here](https://github.com/vscodium/vscodium/releases)
 - vim 
 - nano
 - gedit
 - sublimetxt
+- gitpod
 
 # **💌 How you can reach me:**
 
