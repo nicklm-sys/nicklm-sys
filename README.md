@@ -7,7 +7,7 @@ I'm form phillipines to the world of coding, one person's determination to succe
 
 [personal site](https://nickaldwin.netlify.app/)
 
-# **🛠 Tech Stack:**
+**🛠 Tech Stack:**
 - JavaScript
 - EJS
 - Node.js
