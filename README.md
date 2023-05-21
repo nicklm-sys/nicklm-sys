@@ -22,6 +22,7 @@ I'm form phillipines  to the world of coding, one person's determination to succ
 - gedit
 - sublimetxt
 - gitpod
+- google-cloud-shell IDE
 
 # **💌 How you can reach me:**
 
