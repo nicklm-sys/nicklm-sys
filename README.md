@@ -16,7 +16,7 @@ I'm form phillipines  to the world of coding, one person's determination to succ
 
 
 **🧰 Tools I love:**
-- vsCodium [Link text Here](https://https://github.com/vscodium/vscodium/releases)
+- vsCodium [Link text Here](https://github.com/vscodium/vscodium/releases)
 - vim 
 - nano
 - geddit
