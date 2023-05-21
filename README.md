@@ -19,7 +19,7 @@ I'm form phillipines  to the world of coding, one person's determination to succ
 - vsCodium [Link text Here](https://github.com/vscodium/vscodium/releases)
 - vim 
 - nano
-- geddit
+- gedit
 - sublimetxt
 
 # **💌 How you can reach me:**
