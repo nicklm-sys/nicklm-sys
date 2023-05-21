@@ -19,6 +19,7 @@ I'm form phillipines  to the world of coding, one person's determination to succ
 - vsCodium [Link Here](https://github.com/vscodium/vscodium/releases)
 - vim 
 - nano
+- termux
 - gedit
 - sublimetxt
 - gitpod
