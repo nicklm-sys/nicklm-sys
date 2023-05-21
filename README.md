@@ -5,18 +5,22 @@ I'm form phillipines  to the world of coding, one person's determination to succ
 
 **🌎 Links:**
 
-[My personal site] https://nickaldwin.netlify.app/
+[personal site](https://nickaldwin.netlify.app/)
 
-**🛠 Tech:**
+**🛠 Tech Stack:**
+- JavaScript
+- EJS
+- Node.js
+- pyhon
+- go
 
-![HTML](https://img.shields.io/badge/HTML5-8d90e2?style=for-the-badge&logo=html5&logoColor=f3c6f2)
-![CSS](https://img.shields.io/badge/CSS3-bd98e0?style=for-the-badge&logo=css3&logoColor=dfe2fb)
-
-![JS](https://img.shields.io/badge/JavaScript-bd98e0?style=for-the-badge&logo=javascript&logoColor=dfe2fb)
 
 **🧰 Tools I love:**
-
-![image](https://img.shields.io/badge/Visual_Sudio_Code-8d90e2?style=for-the-badge&logo=visual%20studio%20code&logoColor=f3c6f2)
+- vsCodium [Link text Here](https://https://github.com/vscodium/vscodium/releases)
+- vim 
+- nano
+- geddit
+- sublimetxt
 
 **💌 How you can reach me:**
 
