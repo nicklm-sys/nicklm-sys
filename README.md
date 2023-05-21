@@ -7,7 +7,7 @@ I'm form phillipines  to the world of coding, one person's determination to succ
 
 [personal site](https://nickaldwin.netlify.app/)
 
-**🛠 Tech Stack:**
+# **🛠 Tech Stack:**
 - JavaScript
 - EJS
 - Node.js
@@ -15,7 +15,7 @@ I'm form phillipines  to the world of coding, one person's determination to succ
 - go
 
 
-**🧰 Tools I love:**
+# **🧰 Tools I love:**
 - vsCodium [Link text Here](https://github.com/vscodium/vscodium/releases)
 - vim 
 - nano
