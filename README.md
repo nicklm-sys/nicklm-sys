@@ -20,6 +20,5 @@ I'm form phillipines to the world of coding, one person's determination to succe
 **🧰 Tools I love:**
 - vsCodium [Link Here](https://github.com/vscodium/vscodium/releases)
 - gedit
-- sublimetxt
 - gitpod
 - google-cloud-shell IDE
