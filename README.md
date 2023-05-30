@@ -5,8 +5,8 @@ I'm form phillipines to the world of coding, one person's determination to succe
 **🌎 Links:**
 [personal site](https://nickaldwin.netlify.app/)
 
-**💌 How you can reach me:**
-[![image](https://img.shields.io/badge/Twitter-bd98e0?style=for-the-badge&logo=twitter&logoColor=dfe2fb)](https://twitter.com/nicklemoncito)
+**💌 How you can reach me:**<br>
+[![image](https://img.shields.io/badge/Twitter-bd98e0?style=for-the-badge&logo=twitter&logoColor=dfe2fb)](https://twitter.com/nicklemoncito)<br>
 [![image](https://img.shields.io/badge/LinkedIn-8d90e2?style=for-the-badge&logo=linkedin&logoColor=f3c6f2)](https://www.linkedin.com/in/bitlynicklemoncito/)
 
 
