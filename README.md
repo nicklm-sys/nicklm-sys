@@ -9,16 +9,14 @@ I'm form phillipines to the world of coding, one person's determination to succe
 [![image](https://img.shields.io/badge/Twitter-bd98e0?style=for-the-badge&logo=twitter&logoColor=dfe2fb)](https://twitter.com/nicklemoncito)<br>
 [![image](https://img.shields.io/badge/LinkedIn-8d90e2?style=for-the-badge&logo=linkedin&logoColor=f3c6f2)](https://www.linkedin.com/in/bitlynicklemoncito/)
 
-
 **🛠 Tech Stack:**
-- JavaScript
-- EJS
-- Node.js
-- pyhon
-- go
+- `JavaScript`
+- `EJS`
+- `Node.js`
+- `pyhon`
+- `go`
 
 **🧰 Tools I love:**
-- vsCodium [Link Here](https://github.com/vscodium/vscodium/releases)
-- gedit
-- gitpod
-- google-cloud-shell IDE
+- `vsCodium` [Link Here](https://github.com/vscodium/vscodium/releases) 
+- `gitpod`
+- `google-cloud-shell IDE`
