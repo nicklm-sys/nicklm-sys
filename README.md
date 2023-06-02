@@ -4,8 +4,7 @@ I'm form phillipines to the world of coding, one person's determination to succe
 
 **🌎 Links:**<br>
 <br>
-[personal site](https://nickaldwin.netlify.app/)
-[the portal](https://p0rtal.netlify.app/)
+[personal site](https://p0rtal.netlify.app/)
 
 **💌 How you can reach me:**<br>
 [![image](https://img.shields.io/badge/Twitter-bd98e0?style=for-the-badge&logo=twitter&logoColor=dfe2fb)](https://twitter.com/nicklemoncito)<br>
