@@ -1,7 +1,4 @@
-hi i’m nick aldwin 
-
-I'm form phillipines to the world of coding, one person's determination to succeed is the inspiring tale behind this captivating story. Self-taught and motivated, follow the journey of a budding programmer as they navigate the complexities of code and the world of technology. With passion and grit, ourovercomes obstacles and hurdles, learning valuable lessons along the way. From humble beginnings to a future full of promise, this is a story of one person's journey to unlock their full potential through the power of coding.
-
+My name is Nick Aldwin D. Lemoncito, a Full Stack Software Engineer from the Philippines. As a passionate software engineer, my expertise lies in creating beautiful and intuitive user experiences. I am dedicated to finding innovative solutions and committed to going the extra mile to ensure project success.
 **🌎 Links:**<br>
 <br>
 [personal site](https://p0rtal.vercel.app/)
