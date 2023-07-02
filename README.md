@@ -16,8 +16,3 @@ My name is Nick Aldwin D. Lemoncito, a Full Stack Software Engineer from the Phi
 - `Express.js`
 - `pyhon`
 - `go`
-
-**🧰 Tools I love:**
-- `vsCodium` [Link Here](https://github.com/vscodium/vscodium/releases) 
-- `gitpod`
-- `google-cloud-shell IDE`
