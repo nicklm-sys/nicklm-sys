@@ -45,7 +45,7 @@ My name is Nick Aldwin D. Lemoncito, a Full Stack Software Engineer from the Phi
 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"></h3>
+      <h3 align="center">Ythreads</h3>
         <br />
         <a target="_blank" href="">
             <img src="" width="100%" alt=""/>
@@ -63,7 +63,7 @@ My name is Nick Aldwin D. Lemoncito, a Full Stack Software Engineer from the Phi
         <p><strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"></h3>
+      <h3 align="center">foodDelivery</h3>
         <br />
       <a target="_blank" href="">
             <img src="" width="100%"  alt=""/>
@@ -71,7 +71,7 @@ My name is Nick Aldwin D. Lemoncito, a Full Stack Software Engineer from the Phi
         <br />
         <p align="center">
 
-  <a href="" target="_blank">
+  <!--<a href="" target="_blank">
     <img src=""/>
   </a>
   <a href="" target="_blank">
@@ -80,11 +80,11 @@ My name is Nick Aldwin D. Lemoncito, a Full Stack Software Engineer from the Phi
       </p>
         <p><strong></strong></p>
     </td>
-  </tr>
+  </tr>-->
 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"></h3>
+      <h3 align="center">Ecomerce_project</h3>
       <br />
         <a target="_blank" href="">
           <img src=" width="100%" alt=""/>
@@ -98,25 +98,25 @@ My name is Nick Aldwin D. Lemoncito, a Full Stack Software Engineer from the Phi
     <img src=""/>
   </a>
       </p>
-        <p><strong></strong> -</p>
+        <p><strong></strong> </p>
     </td>
-    <td width="50%" valign="top">
+    <!--<td width="50%" valign="top">
       <h3 align="center"></h3>
         <br />
         <a target="_blank" href="">
           <img src="" width="100%" alt=""/>
         </a>
         <br />
-        <p align="center">
+        <p align="center">-->
 
-  <a href="" target="_blank">
+<!--  <a href="" target="_blank">
     <img src=""/>
   </a>
   <a href="" target="_blank">
     <img src=""/>
   </a>
       </p>
-        <p><strong></p>
+        <p><strong></p>--->
     </td>
   </tr>
 </table>
