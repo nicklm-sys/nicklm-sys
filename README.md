@@ -38,7 +38,7 @@ My name is Nick Aldwin D. Lemoncito, a Full Stack Software Engineer from the Phi
 
 <!-- Featured Projects -->
 
-##  Featured Projects
+<!--##  Featured Projects--->
 
 <!--NOTE I WILL ADD PROJECTS HERE -->
 <!--<table bordercolor="#66b2b2">
