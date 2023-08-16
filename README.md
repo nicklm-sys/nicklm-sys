@@ -71,7 +71,7 @@ My name is Nick Aldwin D. Lemoncito, a Full Stack Software Engineer from the Phi
         <br />
         <p align="center">
 
-  <!--<a href="" target="_blank">
+  <a href="" target="_blank">
     <img src=""/>
   </a>
   <a href="" target="_blank">
@@ -100,7 +100,7 @@ My name is Nick Aldwin D. Lemoncito, a Full Stack Software Engineer from the Phi
       </p>
         <p><strong></strong> </p>
     </td>
-    <!--<td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center"></h3>
         <br />
         <a target="_blank" href="">
@@ -109,7 +109,7 @@ My name is Nick Aldwin D. Lemoncito, a Full Stack Software Engineer from the Phi
         <br />
         <p align="center">-->
 
-<!--  <a href="" target="_blank">
+  <a href="" target="_blank">
     <img src=""/>
   </a>
   <a href="" target="_blank">
