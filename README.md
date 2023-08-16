@@ -6,16 +6,14 @@
 [![GMail](https://img.shields.io/badge/Mail%20Me%21-1d1f21?style=flat&logo=gmail&logoColor=white)](mailto:codewithpaula@gmail.com)
 
 <!-- About -->
-## 👋 About Me
+##  About Me
 
-Hello,
+My name is Nick Aldwin D. Lemoncito, a Full Stack Software Engineer from the Philippines. As a passionate software engineer, my expertise lies in creating beautiful and intuitive user experiences. I am dedicated to finding innovative solutions and committed to going the extra mile to ensure project success.
 
-My name is Paula Isabel. I'm a Frontend developer who loves coming up with new projects and ideas. I am passionate about open source and actively contribute to it. I've recently developed an interest in writing technical articles in order to help other developers. My work can be found on the [OSSPH blog](https://blog.ossph.org/author/paula/).
 
-Feel free to DM or ask me any questions you may have.
 
 <!-- Tech Stack -->
-## 🔧 Technologies & Tools
+##  Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=flat&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=flat&logo=CSS3&logoColor=1572B6)
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=flat&logo=HTML5&logoColor=E34F26)
@@ -39,8 +37,8 @@ Feel free to DM or ask me any questions you may have.
 
 <!-- Featured Projects -->
 
-## 📂 Featured Projects
-As an open source enthusiast, I keep all of my personal projects on GitHub and Codepen. I've completed over 20 projects, but here are a few that stand out:
+##  Featured Projects
+
 
 <table bordercolor="#66b2b2">
 
@@ -48,8 +46,8 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
     <td width="50%" valign="top">
       <h3 align="center">Signo</h3>
         <br />
-        <a target="_blank" href="https://signo-company.vercel.app/">
-            <img src="https://github.com/paulaxisabel/portfolio-v2/blob/main/img/signo.png" width="100%" alt="Signo"/>
+        <a target="_blank" href="">
+            <img src="" width="100%" alt="Signo"/>
         </a>
         <br />
         <p align="center">
