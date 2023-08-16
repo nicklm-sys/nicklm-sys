@@ -1,9 +1,9 @@
 
-[![Visits](https://komarev.com/ghpvc/?username=paulaxisabel&logo=GitHub&label=Visitors&color=1d1f21&logoColor=white&style=flat)](https://github.com/paulaxisabel)
-[![Twitter](https://img.shields.io/badge/codewithpau-1d1f21?style=flat&logo=twitter&logoColor=00acee)](https://www.twitter.com/codewithpau)
-[![Codepen](https://img.shields.io/badge/@paulaxisabel-1d1f21?style=flat&logo=codepen&logoColor=white)](https://codepen.io/paulaxisabel/)
-[![Linkedin](https://img.shields.io/badge/Let%27s%20Connect%21-1d1f21?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/paulasigno)
-[![GMail](https://img.shields.io/badge/Mail%20Me%21-1d1f21?style=flat&logo=gmail&logoColor=white)](mailto:codewithpaula@gmail.com)
+[![Visits](https://komarev.com/ghpvc/?username=paulaxisabel&logo=GitHub&label=Visitors&color=1d1f21&logoColor=white&style=flat)](https://github.com/nickaldwin)
+[![Twitter](https://img.shields.io/badge/codewithpau-1d1f21?style=flat&logo=twitter&logoColor=00acee)](https://www.twitter.com/dev_nicklm)
+[![Codepen](https://img.shields.io/badge/@paulaxisabel-1d1f21?style=flat&logo=codepen&logoColor=white)](https://codepen.io/nickaldwin/)
+[![Linkedin](https://img.shields.io/badge/Let%27s%20Connect%21-1d1f21?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nicklemoncito)
+[![GMail](https://img.shields.io/badge/Mail%20Me%21-1d1f21?style=flat&logo=gmail&logoColor=white)](mailto:nicklemoncito98@gmail.com)
 
 <!-- About -->
 ##  About Me
@@ -44,7 +44,7 @@ My name is Nick Aldwin D. Lemoncito, a Full Stack Software Engineer from the Phi
 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Signo</h3>
+      <h3 align="center"></h3>
         <br />
         <a target="_blank" href="">
             <img src="" width="100%" alt="Signo"/>
@@ -52,70 +52,70 @@ My name is Nick Aldwin D. Lemoncito, a Full Stack Software Engineer from the Phi
         <br />
         <p align="center">
 
-  <a href="https://github.com/paulaxisabel/signo-company" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1d1f21&style=flat&logo=github&logo-color=white"/>
+  <a href="" target="_blank">
+    <img src=""/>
   </a>
-  <a href="https://signo-company.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d1f21&style=flat&logo=wordpress&logo-color=white"/>
+  <a href="" target="_blank">
+    <img src=""/>
   </a>
       </p>
-        <p><strong>HTML, CSS, Javascript, JQuery, & LeafletJS</strong> - A multi-page website for a web development company that includes a contact form and a map with actual locations on it</p>
+        <p><strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Dine Restaurant</h3>
+      <h3 align="center"></h3>
         <br />
-      <a target="_blank" href="https://dine-by-paula.vercel.app/">
-            <img src="https://github.com/paulaxisabel/portfolio-v2/blob/main/img/dine.PNG" width="100%"  alt="Dine Restaurant"/>
+      <a target="_blank" href="">
+            <img src="" width="100%"  alt=""/>
         </a>
         <br />
         <p align="center">
 
-  <a href="https://github.com/paulaxisabel/dine" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1d1f21&style=flat&logo=github&logo-color=white"/>
+  <a href="" target="_blank">
+    <img src=""/>
   </a>
-  <a href="https://dine-by-paula.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d1f21&style=flat&logo=wordpress&logo-color=white"/>
+  <a href="" target="_blank">
+    <img src=""/>
   </a>
       </p>
-        <p><strong>HTML, Sass, & JQuery</strong> - A multi-page restaurant website with a booking form</p>
+        <p><strong></strong></p>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Shortly</h3>
+      <h3 align="center"></h3>
       <br />
-        <a target="_blank" href="https://shortly-by-paula.vercel.app/">
-          <img src="https://github.com/paulaxisabel/portfolio-v2/blob/main/img/shortly.png" width="100%" alt="Shortly"/>
+        <a target="_blank" href="">
+          <img src=" width="100%" alt=""/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/paulaxisabel/shortly" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1d1f21&style=flat&logo=github&logo-color=white"/>
+  <a href="" target="_blank">
+    <img src=""/>
   </a>
-  <a href="https://shortly-by-paula.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d1f21&style=flat&logo=wordpress&logo-color=white"/>
+  <a href="" target="_blank">
+    <img src=""/>
   </a>
       </p>
-        <p><strong>HTML, Sass, & Javascript</strong> - A landing page that utilizes the shrtcode API to shorten any valid URL</p>
+        <p><strong></strong> -</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Arch</h3>
         <br />
-        <a target="_blank" href="https://arch-company.vercel.app/">
-          <img src="https://github.com/paulaxisabel/portfolio-v2/blob/main/img/arch.png" width="100%" alt="Arch"/>
+        <a target="_blank" href="">
+          <img src="" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
 
-  <a href="https://github.com/paulaxisabel/arch-company" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1d1f21&style=flat&logo=github&logo-color=white"/>
+  <a href="" target="_blank">
+    <img src=""/>
   </a>
-  <a href="https://arch-company.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d1f21&style=flat&logo=wordpress&logo-color=white"/>
+  <a href="" target="_blank">
+    <img src=""/>
   </a>
       </p>
-        <p><strong>ReactJS, Vite, LeafletJS, Sass, HTML</strong> - A multi-page website for an architect firm that includes a contact form and a map with actual locations on it</p>
+        <p><strong></p>
     </td>
   </tr>
 </table>
