@@ -80,7 +80,7 @@ My name is Nick Aldwin D. Lemoncito, a Full Stack Software Engineer from the Phi
       </p>
         <p><strong></strong></p>
     </td>
-  </tr>-->
+  </tr>
 
   <tr>
     <td width="50%" valign="top">
