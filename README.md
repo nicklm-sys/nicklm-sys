@@ -14,9 +14,9 @@ See [my website](https://nicklemonade.netlify.app) for more information!
 ### What I Offer:
 💡 Innovative Solutions: I thrive on solving challenging problems and creating innovative solutions tailored to the unique needs of each project.
 
-🌐 Web & Mobile Development: Specializing in [mention specific areas like web development, mobile app development, etc.], I bring a versatile skill set to the table.
+🌐 Web & Mobile Development:  I bring a versatile skill set to the table.
 
-⚙️ Technical Expertise: Proficient in [list relevant technologies, languages, and frameworks], I stay at the forefront of industry trends to deliver cutting-edge solutions.
+⚙️ Technical Expertise:  I stay at the forefront of industry trends to deliver cutting-edge solutions.
 
 ### Why Choose Me:
 🤝 Collaborative Approach: I believe in open communication and collaboration, working closely with clients to understand their vision and deliver results that exceed expectations.
