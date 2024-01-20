@@ -11,19 +11,6 @@ My name is Nick Aldwin D. Lemoncito, a Full Stack Software Engineer from the Phi
 
 See [my website](https://nicklemonade.netlify.app) for more information!
 
-## What I Offer
-💡 Innovative Solutions: I thrive on solving challenging problems and creating innovative solutions tailored to the unique needs of each project.
-
-🌐 Web & Mobile Development:  I bring a versatile skill set to the table.
-
-⚙️ Technical Expertise:  I stay at the forefront of industry trends to deliver cutting-edge solutions.
-
-## Why Choose Me
-🤝 Collaborative Approach: I believe in open communication and collaboration, working closely with clients to understand their vision and deliver results that exceed expectations.
-
-🏆 Proven Track Record: Backed by a track record of successful projects, I have consistently delivered high-quality software solutions on time and within budget.
-
-🌟 Passion for Excellence: My commitment to excellence extends beyond code – I am dedicated to creating positive and impactful user experiences.
 
 <!-- Tech Stack -->
 ##  Technologies & Tools
