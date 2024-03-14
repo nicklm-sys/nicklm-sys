@@ -5,8 +5,7 @@
 
 <!-- About -->
 ##  About Me
-
-A Full Stack Software Engineer from the Philippines. As a passionate software engineer, my expertise lies in creating beautiful and intuitive user experiences. I am dedicated to finding innovative solutions and committed to going the extra mile to ensure project success.
+As a passionate software engineer, my expertise lies in creating beautiful and intuitive user experiences. I am dedicated to finding innovative solutions and committed to going the extra mile to ensure project success.
 
 See [my website](https://nicklemonade.netlify.app) for more information!
 
