@@ -6,7 +6,7 @@
 
 <!-- About -->
 ##  About Me
-As a passionate software engineer, my expertise lies in creating beautiful and intuitive user experiences. I am dedicated to finding innovative solutions and committed to going the extra mile to ensure project success 📈.
+Creative, detail-oriented, software engineer with a deep interest in solving complex problems. Proven track record of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company with global reach.
 
 
 <!-- Tech Stack -->
