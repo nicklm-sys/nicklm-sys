@@ -6,11 +6,11 @@
 
 <!-- About -->
 ##  About Me
-Creative, detail-oriented, software engineer with a deep interest in solving complex problems. Proven track record of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company with global reach.
+A creative, software engineer with a deep interest in solving complex problems. Proven track record of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company with global reach.
 
 
 <!-- Tech Stack -->
-##  Technologies & Tools
+<!--##  Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=flat&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=flat&logo=CSS3&logoColor=1572B6)
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=flat&logo=HTML5&logoColor=E34F26)
@@ -31,7 +31,7 @@ Creative, detail-oriented, software engineer with a deep interest in solving com
 ![Git](https://img.shields.io/badge/-Git-1d1f21?style=flat&logo=Git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=flat&logo=GitHub&logoColor=ffffff)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-1d1f21?style=flat&logo=Gitlab&logoColor=FC6D26)
-
+-->
 <!-- Featured Projects -->
 
 <!--##  Featured Projects--->
