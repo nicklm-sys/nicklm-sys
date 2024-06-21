@@ -4,9 +4,9 @@
 [![GMail](https://img.shields.io/badge/Mail%20Me%21-1d1f21?style=flat&logo=gmail&logoColor=white)](mailto:nicklemoncito98@gmail.com)
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 
-<!-- About -->
+<!-- About
 ##  About Me
-A creative, software engineer with a deep interest in solving complex problems. Proven track record of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company with global reach.
+A creative, software engineer with a deep interest in solving complex problems. Proven track record of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company with global reach.  -->
 
 
 <!-- Tech Stack -->
