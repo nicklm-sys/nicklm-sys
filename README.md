@@ -6,7 +6,7 @@
 
  <!--About me-->
 ##  Hi there! 👋
-I'm a creative software engineer passionate about tackling complex challenges and crafting innovative solutions. With a strong background in developing and implementing successful front and back-end web applications, I thrive on turning ideas into impactful products. I'm eager to leverage my skills in a dynamic tech company with a global presence, where I can contribute to meaningful projects and continue to grow as a software engineer  
+I'm a creative software engineer passionate about tackling complex challenges and crafting innovative solutions. I thrive on turning ideas into impactful products. I'm eager to leverage my skills in a dynamic tech company with a global presence, where I can contribute to meaningful projects and continue to grow as a software engineer  
 
 
 <!-- Tech Stack -->
