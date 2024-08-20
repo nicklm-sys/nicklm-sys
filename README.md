@@ -4,7 +4,7 @@
 [![GMail](https://img.shields.io/badge/Mail%20Me%21-1d1f21?style=flat&logo=gmail&logoColor=white)](mailto:nicklemoncito98@gmail.com)
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 
-<!-- About
+ <!--About me-->
 ##  Hi there! 👋
 I'm a creative software engineer passionate about tackling complex challenges and crafting innovative solutions. With a strong background in developing and implementing successful front and back-end web applications, I thrive on turning ideas into impactful products. I'm eager to leverage my skills in a dynamic tech company with a global presence, where I can contribute to meaningful projects and continue to grow as a software engineer  
 
@@ -19,9 +19,6 @@ I'm a creative software engineer passionate about tackling complex challenges an
 ![JQuery](https://img.shields.io/badge/-JQuery-1d1f21?style=flat&logo=JQuery&logoColor=0769AD)
 ![SASS](https://img.shields.io/badge/-Sass-1d1f21?style=flat&logo=Sass&logoColor=CC6699)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1d1f21?style=flat&logo=Bootstrap&logoColor=7952B3)
-![AWS](https://img.shields.io/badge/-Amazon%20AWS-1d1f21?style=flat&logo=Amazon-AWS&logoColor=ffffff)
-![Wordpress](https://img.shields.io/badge/-Wordpress-1d1f21?style=flat&logo=Wordpress&logoColor=21759B)
-![MySQL](https://img.shields.io/badge/-MySQL-1d1f21?style=flat&logo=MySQL&logoColor=4479A1
 ![Vim](https://img.shields.io/badge/-Vim-1d1f21?style=flat&logo=Vim&logoColor=019733)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-1d1f21?style=flat&logo=Visual-Studio-Code&logoColor=5C2D91)
 ![Pycharm](https://img.shields.io/badge/-PyCharm-1d1f21?style=flat&logo=PyCharm&logoColor=ffffff)
