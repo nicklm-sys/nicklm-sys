@@ -5,12 +5,12 @@
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 
 <!-- About
-##  About Me
-A creative, software engineer with a deep interest in solving complex problems. Proven track record of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company with global reach.  -->
+##  Hi there! 👋
+I'm a creative software engineer passionate about tackling complex challenges and crafting innovative solutions. With a strong background in developing and implementing successful front and back-end web applications, I thrive on turning ideas into impactful products. I'm eager to leverage my skills in a dynamic tech company with a global presence, where I can contribute to meaningful projects and continue to grow as a software engineer  
 
 
 <!-- Tech Stack -->
-<!--##  Technologies & Tools
+##  Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=flat&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=flat&logo=CSS3&logoColor=1572B6)
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=flat&logo=HTML5&logoColor=E34F26)
@@ -21,8 +21,7 @@ A creative, software engineer with a deep interest in solving complex problems. 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1d1f21?style=flat&logo=Bootstrap&logoColor=7952B3)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-1d1f21?style=flat&logo=Amazon-AWS&logoColor=ffffff)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-1d1f21?style=flat&logo=Wordpress&logoColor=21759B)
-![MySQL](https://img.shields.io/badge/-MySQL-1d1f21?style=flat&logo=MySQL&logoColor=4479A1)
-![Figma](https://img.shields.io/badge/-Figma-1d1f21?style=flat&logo=Figma&logoColor=F24E1E)
+![MySQL](https://img.shields.io/badge/-MySQL-1d1f21?style=flat&logo=MySQL&logoColor=4479A1
 ![Vim](https://img.shields.io/badge/-Vim-1d1f21?style=flat&logo=Vim&logoColor=019733)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-1d1f21?style=flat&logo=Visual-Studio-Code&logoColor=5C2D91)
 ![Pycharm](https://img.shields.io/badge/-PyCharm-1d1f21?style=flat&logo=PyCharm&logoColor=ffffff)
@@ -31,7 +30,7 @@ A creative, software engineer with a deep interest in solving complex problems. 
 ![Git](https://img.shields.io/badge/-Git-1d1f21?style=flat&logo=Git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=flat&logo=GitHub&logoColor=ffffff)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-1d1f21?style=flat&logo=Gitlab&logoColor=FC6D26)
--->
+
 <!-- Featured Projects -->
 
 <!--##  Featured Projects--->
