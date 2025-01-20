@@ -4,12 +4,12 @@
 [![GMail](https://img.shields.io/badge/Mail%20Me%21-1d1f21?style=flat&logo=gmail&logoColor=white)](mailto:nicklemoncito98@gmail.com)
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 
- <!--About me-->
+ <!--About me
 ##  Hi there! 👋
 I'm a creative software engineer passionate about tackling complex challenges and crafting innovative solutions. I thrive on turning ideas into impactful products. I'm eager to leverage my skills in a dynamic tech company with a global presence, where I can contribute to meaningful projects and continue to grow as a software engineer  
 
 
-<!-- Tech Stack -->
+<!-- Tech Stack
 ##  Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=flat&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=flat&logo=CSS3&logoColor=1572B6)
@@ -28,6 +28,7 @@ I'm a creative software engineer passionate about tackling complex challenges an
 ![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=flat&logo=GitHub&logoColor=ffffff)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-1d1f21?style=flat&logo=Gitlab&logoColor=FC6D26)
 
+-->
 <!-- Featured Projects -->
 
 <!--##  Featured Projects--->
